@@ -1,0 +1,373 @@
+[
+  {
+    "Name": "Shopify",
+    "Headquarters": "Ottawa, Ontario",
+    "FoundedYear": 2006,
+    "Founders": ["Tobias Lütke", "Daniel Weinand", "Scott Lake"],
+    "Industry": "E-commerce",
+    "EmployeeCount": 11000,
+    "Financials": {
+      "Revenue2023": 5700000000,
+      "NetIncome2023": 320000000,
+      "MarketCap": 43000000000
+    },
+    "Products": [
+      "Shopify Platform",
+      "Shopify Plus",
+      "Shopify POS"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Ruby", "JavaScript", "React"],
+      "CloudProviders": ["Google Cloud Platform", "AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Waterloo",
+      "San Francisco"
+    ],
+    "NotableClients": [
+      "Allbirds",
+      "Gymshark",
+      "Kylie Cosmetics"
+    ],
+    "Awards": [
+      "Forbes Cloud 100",
+      "LinkedIn Top Startups Canada"
+    ],
+    "Website": "https://www.shopify.com"
+  },
+  {
+    "Name": "OpenText",
+    "Headquarters": "Waterloo, Ontario",
+    "FoundedYear": 1991,
+    "Founders": ["Tim Bray", "Tom Jenkins"],
+    "Industry": "Enterprise Information Management",
+    "EmployeeCount": 14000,
+    "Financials": {
+      "Revenue2023": 3100000000,
+      "NetIncome2023": 350000000,
+      "MarketCap": 4500000000
+    },
+    "Products": [
+      "Content Suite Platform",
+      "Magellan AI",
+      "EnCase Forensics"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Java", "C++", "Python"],
+      "CloudProviders": ["Microsoft Azure", "AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "New York",
+      "London",
+      "Sydney"
+    ],
+    "NotableClients": [
+      "Bank of Montreal",
+      "Canadian Tire",
+      "Pfizer"
+    ],
+    "Awards": [
+      "Gartner Magic Quadrant Leader",
+      "Fortune 500 Supplier"
+    ],
+    "Website": "https://www.opentext.com"
+  },
+  {
+    "Name": "Slack Technologies (acquired by Salesforce)",
+    "Headquarters": "Vancouver, British Columbia",
+    "FoundedYear": 2009,
+    "Founders": ["Stewart Butterfield", "Cal Henderson"],
+    "Industry": "Collaboration Software",
+    "EmployeeCount": 2500,
+    "Financials": {
+      "Revenue2023": 1300000000,
+      "NetIncome2023": -100000000,
+      "MarketCap": null
+    },
+    "Products": [
+      "Slack Messenger",
+      "Slack Connect"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["JavaScript", "Electron", "Python"],
+      "CloudProviders": ["AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "New York",
+      "San Francisco",
+      "London"
+    ],
+    "NotableClients": [
+      "Airbnb",
+      "Target",
+      "Lyft"
+    ],
+    "Awards": [
+      "Fast Company Most Innovative Companies",
+      "Webby Award"
+    ],
+    "Website": "https://slack.com"
+  },
+  {
+    "Name": "Lightspeed POS",
+    "Headquarters": "Montreal, Quebec",
+    "FoundedYear": 2005,
+    "Founders": ["Dax Dasilva"],
+    "Industry": "Point of Sale Software",
+    "EmployeeCount": 1700,
+    "Financials": {
+      "Revenue2023": 400000000,
+      "NetIncome2023": -20000000,
+      "MarketCap": 1600000000
+    },
+    "Products": [
+      "Lightspeed Retail",
+      "Lightspeed Restaurant",
+      "Lightspeed eCommerce"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Ruby on Rails", "React", "JavaScript"],
+      "CloudProviders": ["AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "Montreal",
+      "New York",
+      "Amsterdam"
+    ],
+    "NotableClients": [
+      "Levi’s",
+      "Tesla",
+      "Joe & The Juice"
+    ],
+    "Awards": [
+      "Best SaaS Product by SaaS Awards",
+      "Fastest Growing Tech Company in Canada"
+    ],
+    "Website": "https://www.lightspeedhq.com"
+  },
+  {
+    "Name": "Hootsuite",
+    "Headquarters": "Vancouver, British Columbia",
+    "FoundedYear": 2008,
+    "Founders": ["Ryan Holmes"],
+    "Industry": "Social Media Management",
+    "EmployeeCount": 1000,
+    "Financials": {
+      "Revenue2023": 200000000,
+      "NetIncome2023": 15000000,
+      "MarketCap": null
+    },
+    "Products": [
+      "Hootsuite Platform",
+      "Hootsuite Impact",
+      "Hootsuite Ads"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["PHP", "JavaScript", "React"],
+      "CloudProviders": ["AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "New York",
+      "London",
+      "Sydney"
+    ],
+    "NotableClients": [
+      "NHL",
+      "Sony Music",
+      "Domino’s"
+    ],
+    "Awards": [
+      "Forbes Cloud 100",
+      "Deloitte Fast 50"
+    ],
+    "Website": "https://www.hootsuite.com"
+  },
+  {
+    "Name": "FreshBooks",
+    "Headquarters": "Toronto, Ontario",
+    "FoundedYear": 2003,
+    "Founders": ["Mike McDerment", "Joe Sawada"],
+    "Industry": "Accounting Software",
+    "EmployeeCount": 350,
+    "Financials": {
+      "Revenue2023": 50000000,
+      "NetIncome2023": 5000000,
+      "MarketCap": null
+    },
+    "Products": [
+      "FreshBooks Cloud Accounting",
+      "FreshBooks Payments"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Ruby on Rails", "JavaScript"],
+      "CloudProviders": ["AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "Ottawa"
+    ],
+    "NotableClients": [
+      "Small businesses",
+      "Freelancers",
+      "Consultants"
+    ],
+    "Awards": [
+      "PCMag Editors' Choice",
+      "Forbes Best Startup Employer"
+    ],
+    "Website": "https://www.freshbooks.com"
+  },
+  {
+    "Name": "Ceridian",
+    "Headquarters": "Toronto, Ontario",
+    "FoundedYear": 1992,
+    "Founders": ["David Ossip"],
+    "Industry": "Human Capital Management",
+    "EmployeeCount": 7000,
+    "Financials": {
+      "Revenue2023": 1200000000,
+      "NetIncome2023": 140000000,
+      "MarketCap": 4000000000
+    },
+    "Products": [
+      "Dayforce HCM Platform",
+      "Payroll Solutions"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Java", "C#", "JavaScript"],
+      "CloudProviders": ["AWS", "Azure"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "Minneapolis",
+      "London",
+      "Sydney"
+    ],
+    "NotableClients": [
+      "Marriott",
+      "Hilton",
+      "Boeing"
+    ],
+    "Awards": [
+      "Forbes Best Employers",
+      "Stevie Award"
+    ],
+    "Website": "https://www.ceridian.com"
+  },
+  {
+    "Name": "PointClickCare",
+    "Headquarters": "Mississauga, Ontario",
+    "FoundedYear": 2000,
+    "Founders": ["Mike Wessinger"],
+    "Industry": "Healthcare Software",
+    "EmployeeCount": 2500,
+    "Financials": {
+      "Revenue2023": 350000000,
+      "NetIncome2023": 30000000,
+      "MarketCap": null
+    },
+    "Products": [
+      "PointClickCare EHR",
+      "PointClickCare Revenue Cycle Management"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Java", "JavaScript", "SQL"],
+      "CloudProviders": ["AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "Denver"
+    ],
+    "NotableClients": [
+      "Long-term care providers",
+      "Skilled nursing facilities"
+    ],
+    "Awards": [
+      "Best in KLAS",
+      "Canada’s Best Managed Companies"
+    ],
+    "Website": "https://pointclickcare.com"
+  },
+  {
+    "Name": "Lightspeed Commerce",
+    "Headquarters": "Montreal, Quebec",
+    "FoundedYear": 2005,
+    "Founders": ["Dax Dasilva"],
+    "Industry": "Point of Sale and E-commerce",
+    "EmployeeCount": 1700,
+    "Financials": {
+      "Revenue2023": 420000000,
+      "NetIncome2023": -15000000,
+      "MarketCap": 1650000000
+    },
+    "Products": [
+      "Lightspeed POS",
+      "Lightspeed eCommerce",
+      "Lightspeed Payments"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Ruby", "React", "JavaScript"],
+      "CloudProviders": ["AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "Montreal",
+      "New York",
+      "Amsterdam"
+    ],
+    "NotableClients": [
+      "Levi’s",
+      "Tesla",
+      "Joe & The Juice"
+    ],
+    "Awards": [
+      "SaaS Awards Winner",
+      "Fastest Growing Canadian Tech Company"
+    ],
+    "Website": "https://www.lightspeedhq.com"
+  },
+  {
+    "Name": "D2L (Desire2Learn)",
+    "Headquarters": "Kitchener, Ontario",
+    "FoundedYear": 1999,
+    "Founders": ["John Baker"],
+    "Industry": "Educational Technology",
+    "EmployeeCount": 800,
+    "Financials": {
+      "Revenue2023": 130000000,
+      "NetIncome2023": 10000000,
+      "MarketCap": null
+    },
+    "Products": [
+      "Brightspace Learning Platform",
+      "Pulse Mobile App"
+    ],
+    "Technologies": {
+      "ProgrammingLanguages": ["Java", "JavaScript", "React"],
+      "CloudProviders": ["AWS"]
+    },
+    "GlobalOffices": [
+      "Toronto",
+      "Kitchener",
+      "New York",
+      "London"
+    ],
+    "NotableClients": [
+      "University of Toronto",
+      "McMaster University",
+      "Pearson"
+    ],
+    "Awards": [
+      "Brandon Hall Group Excellence Award",
+      "ASTD BEST Award"
+    ],
+    "Website": "https://www.d2l.com"
+  }
+]
