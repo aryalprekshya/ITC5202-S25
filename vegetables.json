@@ -1,0 +1,289 @@
+[
+  {
+    "Name": "Carrot",
+    "Family": "Apiaceae",
+    "ScientificName": "Daucus carota",
+    "Color": ["Orange", "Purple", "Yellow", "White"],
+    "NutritionalInfo": {
+      "Calories": 41,
+      "Carbohydrates_g": 10,
+      "Fiber_g": 2.8,
+      "VitaminA_%DV": 334,
+      "VitaminC_mg": 5.9
+    },
+    "CommonUses": [
+      "Raw in salads",
+      "Juices and smoothies",
+      "Soups and stews",
+      "Roasting and grilling"
+    ],
+    "GrowingSeasons": [
+      "Spring",
+      "Fall"
+    ],
+    "GrowingConditions": {
+      "Climate": "Cool to temperate",
+      "Soil": "Well-drained, sandy loam",
+      "Sunlight": "Full sun",
+      "DaysToHarvest": 70
+    }
+  },
+  {
+    "Name": "Broccoli",
+    "Family": "Brassicaceae",
+    "ScientificName": "Brassica oleracea var. italica",
+    "Color": ["Green"],
+    "NutritionalInfo": {
+      "Calories": 55,
+      "Carbohydrates_g": 11.2,
+      "Fiber_g": 3.3,
+      "VitaminC_mg": 89.2,
+      "VitaminK_%DV": 116
+    },
+    "CommonUses": [
+      "Steamed or boiled",
+      "Stir-fries",
+      "Raw with dips",
+      "Soups and casseroles"
+    ],
+    "GrowingSeasons": [
+      "Spring",
+      "Fall"
+    ],
+    "GrowingConditions": {
+      "Climate": "Cool season",
+      "Soil": "Rich, well-drained",
+      "Sunlight": "Full sun to partial shade",
+      "DaysToHarvest": 60
+    }
+  },
+  {
+    "Name": "Spinach",
+    "Family": "Amaranthaceae",
+    "ScientificName": "Spinacia oleracea",
+    "Color": ["Green"],
+    "NutritionalInfo": {
+      "Calories": 23,
+      "Carbohydrates_g": 3.6,
+      "Fiber_g": 2.2,
+      "VitaminA_%DV": 56,
+      "Iron_mg": 2.7
+    },
+    "CommonUses": [
+      "Raw in salads",
+      "Cooked as a side dish",
+      "Added to smoothies",
+      "In soups and casseroles"
+    ],
+    "GrowingSeasons": [
+      "Spring",
+      "Fall"
+    ],
+    "GrowingConditions": {
+      "Climate": "Cool season",
+      "Soil": "Moist, well-drained",
+      "Sunlight": "Full sun to partial shade",
+      "DaysToHarvest": 40
+    }
+  },
+  {
+    "Name": "Tomato",
+    "Family": "Solanaceae",
+    "ScientificName": "Solanum lycopersicum",
+    "Color": ["Red", "Yellow", "Green", "Purple"],
+    "NutritionalInfo": {
+      "Calories": 18,
+      "Carbohydrates_g": 3.9,
+      "Fiber_g": 1.2,
+      "VitaminC_mg": 13.7,
+      "Potassium_mg": 237
+    },
+    "CommonUses": [
+      "Raw in salads and sandwiches",
+      "Sauces and soups",
+      "Roasted or grilled",
+      "Juices and salsas"
+    ],
+    "GrowingSeasons": [
+      "Summer",
+      "Early Fall"
+    ],
+    "GrowingConditions": {
+      "Climate": "Warm season",
+      "Soil": "Well-drained, fertile",
+      "Sunlight": "Full sun",
+      "DaysToHarvest": 70
+    }
+  },
+  {
+    "Name": "Potato",
+    "Family": "Solanaceae",
+    "ScientificName": "Solanum tuberosum",
+    "Color": ["Brown", "Red", "Yellow", "Purple"],
+    "NutritionalInfo": {
+      "Calories": 77,
+      "Carbohydrates_g": 17,
+      "Fiber_g": 2.2,
+      "VitaminC_mg": 19.7,
+      "Potassium_mg": 421
+    },
+    "CommonUses": [
+      "Boiled or mashed",
+      "Roasted or fried",
+      "Soups and stews",
+      "Baked"
+    ],
+    "GrowingSeasons": [
+      "Spring",
+      "Early Summer"
+    ],
+    "GrowingConditions": {
+      "Climate": "Cool to temperate",
+      "Soil": "Loose, well-drained",
+      "Sunlight": "Full sun",
+      "DaysToHarvest": 90
+    }
+  },
+  {
+    "Name": "Cucumber",
+    "Family": "Cucurbitaceae",
+    "ScientificName": "Cucumis sativus",
+    "Color": ["Green"],
+    "NutritionalInfo": {
+      "Calories": 16,
+      "Carbohydrates_g": 3.6,
+      "Fiber_g": 0.5,
+      "VitaminC_mg": 2.8,
+      "VitaminK_%DV": 16
+    },
+    "CommonUses": [
+      "Raw in salads",
+      "Pickling",
+      "Sandwiches",
+      "Cold soups"
+    ],
+    "GrowingSeasons": [
+      "Summer"
+    ],
+    "GrowingConditions": {
+      "Climate": "Warm season",
+      "Soil": "Rich, well-drained",
+      "Sunlight": "Full sun",
+      "DaysToHarvest": 50
+    }
+  },
+  {
+    "Name": "Bell Pepper",
+    "Family": "Solanaceae",
+    "ScientificName": "Capsicum annuum",
+    "Color": ["Green", "Red", "Yellow", "Orange"],
+    "NutritionalInfo": {
+      "Calories": 31,
+      "Carbohydrates_g": 6,
+      "Fiber_g": 2.1,
+      "VitaminC_mg": 127.7,
+      "VitaminA_%DV": 11
+    },
+    "CommonUses": [
+      "Raw in salads and dips",
+      "Stuffed and baked",
+      "Stir-fries",
+      "Grilled"
+    ],
+    "GrowingSeasons": [
+      "Summer"
+    ],
+    "GrowingConditions": {
+      "Climate": "Warm season",
+      "Soil": "Well-drained, fertile",
+      "Sunlight": "Full sun",
+      "DaysToHarvest": 60
+    }
+  },
+  {
+    "Name": "Onion",
+    "Family": "Amaryllidaceae",
+    "ScientificName": "Allium cepa",
+    "Color": ["White", "Yellow", "Red"],
+    "NutritionalInfo": {
+      "Calories": 40,
+      "Carbohydrates_g": 9.3,
+      "Fiber_g": 1.7,
+      "VitaminC_mg": 7.4,
+      "Potassium_mg": 146
+    },
+    "CommonUses": [
+      "Raw in salads and sandwiches",
+      "Cooking base for soups and stews",
+      "Caramelized",
+      "Grilled or roasted"
+    ],
+    "GrowingSeasons": [
+      "Spring",
+      "Fall"
+    ],
+    "GrowingConditions": {
+      "Climate": "Cool to warm",
+      "Soil": "Well-drained, fertile",
+      "Sunlight": "Full sun",
+      "DaysToHarvest": 100
+    }
+  },
+  {
+    "Name": "Kale",
+    "Family": "Brassicaceae",
+    "ScientificName": "Brassica oleracea var. sabellica",
+    "Color": ["Green", "Purple"],
+    "NutritionalInfo": {
+      "Calories": 49,
+      "Carbohydrates_g": 9,
+      "Fiber_g": 3.6,
+      "VitaminA_%DV": 206,
+      "VitaminC_mg": 120
+    },
+    "CommonUses": [
+      "Raw in salads",
+      "Sautéed or steamed",
+      "Added to smoothies",
+      "Baked into chips"
+    ],
+    "GrowingSeasons": [
+      "Fall",
+      "Winter"
+    ],
+    "GrowingConditions": {
+      "Climate": "Cool season",
+      "Soil": "Fertile, well-drained",
+      "Sunlight": "Full sun to partial shade",
+      "DaysToHarvest": 60
+    }
+  },
+  {
+    "Name": "Eggplant",
+    "Family": "Solanaceae",
+    "ScientificName": "Solanum melongena",
+    "Color": ["Purple", "White", "Striped"],
+    "NutritionalInfo": {
+      "Calories": 25,
+      "Carbohydrates_g": 6,
+      "Fiber_g": 3,
+      "VitaminC_mg": 2.2,
+      "Potassium_mg": 229
+    },
+    "CommonUses": [
+      "Grilled or roasted",
+      "In stews and curries",
+      "Baked (e.g., eggplant parmesan)",
+      "Fried"
+    ],
+    "GrowingSeasons": [
+      "Summer"
+    ],
+    "GrowingConditions": {
+      "Climate": "Warm season",
+      "Soil": "Well-drained, fertile",
+      "Sunlight": "Full sun",
+      "DaysToHarvest": 80
+    }
+  }
+]
