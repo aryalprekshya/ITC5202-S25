@@ -1,0 +1,422 @@
+[
+  {
+    "RestaurantID": "THAI-TO-0001",
+    "Name": "Pai Northern Thai Kitchen",
+    "Cuisine": "Thai",
+    "Neighborhood": "Downtown Toronto",
+    "Address": {
+      "Street": "18 Duncan St",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5H 3G8"
+    },
+    "Contact": {
+      "Phone": "+1-416-901-4724",
+      "Email": "info@paitoronto.com",
+      "Website": "https://paitoronto.com"
+    },
+    "Rating": 4.4,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "DoorDash"],
+      "Fees": {
+        "BaseFee": "$3.99",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "30–45 mins"
+    },
+    "DietaryOptions": ["Vegetarian", "Gluten-Free", "Peanut-Free"],
+    "ChefSpecials": ["Thai Herb Chicken", "Khao Soi Curry"],
+    "ReviewHighlights": [
+      "Authentic Thai flavors",
+      "Fast delivery",
+      "Large portions"
+    ],
+    "AveragePrepTime": 20,
+    "Certifications": ["DineSafe Certified"],
+    "Owner": {
+      "Name": "Chef Nuit Regular",
+      "Origin": "Thailand",
+      "Background": "Renowned Toronto chef"
+    },
+    "Notes": "Northern Thai food served hot and fresh via Uber Eats."
+  },
+  {
+    "RestaurantID": "IND-TO-0002",
+    "Name": "Banjara Indian Cuisine",
+    "Cuisine": "Indian",
+    "Neighborhood": "Christie Pits",
+    "Address": {
+      "Street": "796 Bloor St W",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M6G 1L7"
+    },
+    "Contact": {
+      "Phone": "+1-416-963-9360",
+      "Email": "contact@banjara.ca",
+      "Website": "https://banjara.ca"
+    },
+    "Rating": 4.3,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "SkipTheDishes"],
+      "Fees": {
+        "BaseFee": "$2.99",
+        "ServiceFee": "8%"
+      },
+      "EstimatedTime": "35–50 mins"
+    },
+    "DietaryOptions": ["Vegetarian", "Halal", "Dairy-Free"],
+    "ChefSpecials": ["Butter Chicken", "Lamb Rogan Josh"],
+    "ReviewHighlights": [
+      "Hearty curries",
+      "Soft naan",
+      "Great value"
+    ],
+    "AveragePrepTime": 25,
+    "Certifications": ["DineSafe Certified"],
+    "Owner": {
+      "Name": "Ajay Sharma",
+      "Origin": "India",
+      "Background": "20+ years in Indian cuisine"
+    },
+    "Notes": "Famous for rich curries and freshly made bread."
+  },
+  {
+    "RestaurantID": "MEX-TO-0003",
+    "Name": "El Catrin Destileria",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Distillery District",
+    "Address": {
+      "Street": "18 Tank House Lane",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5A 3C4"
+    },
+    "Contact": {
+      "Phone": "+1-416-203-2121",
+      "Email": "info@elcatrin.ca",
+      "Website": "https://elcatrin.ca"
+    },
+    "Rating": 4.5,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats"],
+      "Fees": {
+        "BaseFee": "$3.49",
+        "ServiceFee": "12%"
+      },
+      "EstimatedTime": "40 mins"
+    },
+    "DietaryOptions": ["Vegan", "Vegetarian"],
+    "ChefSpecials": ["Beef Birria Tacos", "Ceviche de Atun"],
+    "ReviewHighlights": [
+      "Trendy and flavorful",
+      "Unique sauces",
+      "Sustainable packaging"
+    ],
+    "AveragePrepTime": 22,
+    "Certifications": ["Eco Friendly Restaurant"],
+    "Owner": {
+      "Name": "Chef Olivier Le Calvez",
+      "Origin": "Mexico",
+      "Background": "Master in modern Mexican cuisine"
+    },
+    "Notes": "Chic Mexican food with great sauces and creative flair."
+  },
+  {
+    "RestaurantID": "JPN-TO-0004",
+    "Name": "Kinka Izakaya",
+    "Cuisine": "Japanese",
+    "Neighborhood": "Bloor-Yorkville",
+    "Address": {
+      "Street": "559 Bloor St W",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5S 1Y6"
+    },
+    "Contact": {
+      "Phone": "+1-416-534-7867",
+      "Email": "hello@kinkaizakaya.com",
+      "Website": "https://kinkaizakaya.com"
+    },
+    "Rating": 4.6,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "Ritual"],
+      "Fees": {
+        "BaseFee": "$4.49",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "30–40 mins"
+    },
+    "DietaryOptions": ["Pescatarian", "Gluten-Free"],
+    "ChefSpecials": ["Unagi Don", "Spicy Garlic Karaage"],
+    "ReviewHighlights": [
+      "Authentic izakaya vibes",
+      "Perfectly crispy karaage",
+      "Quick delivery"
+    ],
+    "AveragePrepTime": 18,
+    "Certifications": ["Japanese Culinary Auth. Approved"],
+    "Owner": {
+      "Name": "Chef Tomo Suzuki",
+      "Origin": "Japan",
+      "Background": "15 years in izakaya kitchens"
+    },
+    "Notes": "Casual Japanese tapas made fresh and fast."
+  },
+  {
+    "RestaurantID": "VGN-TO-0005",
+    "Name": "Fresh on Front",
+    "Cuisine": "Vegan",
+    "Neighborhood": "St. Lawrence",
+    "Address": {
+      "Street": "96 Front St E",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5E 1C3"
+    },
+    "Contact": {
+      "Phone": "+1-416-599-4442",
+      "Email": "info@freshrestaurants.ca",
+      "Website": "https://freshrestaurants.ca"
+    },
+    "Rating": 4.2,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "DoorDash"],
+      "Fees": {
+        "BaseFee": "$3.99",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "25–35 mins"
+    },
+    "DietaryOptions": ["Vegan", "Gluten-Free"],
+    "ChefSpecials": ["Power Bowl", "Cauliflower Tacos"],
+    "ReviewHighlights": [
+      "Tasty plant-based meals",
+      "Good portion sizes",
+      "Excellent packaging"
+    ],
+    "AveragePrepTime": 15,
+    "Certifications": ["Vegan Certified"],
+    "Owner": {
+      "Name": "Ruth Tal",
+      "Origin": "Canada",
+      "Background": "Vegan chef and cookbook author"
+    },
+    "Notes": "Popular plant-based food with delivery-focused service."
+  },
+  {
+    "RestaurantID": "FUS-TO-0006",
+    "Name": "Fusion Eats 6",
+    "Cuisine": "Fusion",
+    "Neighborhood": "Queen Street West",
+    "Address": {
+      "Street": "106 Queen St W",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5H 2N2"
+    },
+    "Contact": {
+      "Phone": "+1-416-555-0006",
+      "Email": "contact@fusioneats6.com",
+      "Website": "https://fusioneats6.com"
+    },
+    "Rating": 4.1,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "DoorDash"],
+      "Fees": {
+        "BaseFee": "$3.50",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "30 mins"
+    },
+    "DietaryOptions": ["Vegetarian", "Gluten-Free"],
+    "ChefSpecials": ["Fusion Tacos 6", "Mango Curry Bowl 6"],
+    "ReviewHighlights": [
+      "Innovative menu",
+      "Trendy spot",
+      "Quick service"
+    ],
+    "AveragePrepTime": 20,
+    "Certifications": ["DineSafe Certified"],
+    "Owner": {
+      "Name": "Chef Alex 6",
+      "Origin": "Canada",
+      "Background": "Creative fusion cuisine expert"
+    },
+    "Notes": "Trendy fusion spot popular among locals."
+  },
+  {
+    "RestaurantID": "FUS-TO-0007",
+    "Name": "Fusion Eats 7",
+    "Cuisine": "Fusion",
+    "Neighborhood": "Queen Street West",
+    "Address": {
+      "Street": "107 Queen St W",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5H 2N2"
+    },
+    "Contact": {
+      "Phone": "+1-416-555-0007",
+      "Email": "contact@fusioneats7.com",
+      "Website": "https://fusioneats7.com"
+    },
+    "Rating": 4.2,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "DoorDash"],
+      "Fees": {
+        "BaseFee": "$3.50",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "30 mins"
+    },
+    "DietaryOptions": ["Vegetarian", "Gluten-Free"],
+    "ChefSpecials": ["Fusion Tacos 7", "Mango Curry Bowl 7"],
+    "ReviewHighlights": [
+      "Innovative menu",
+      "Trendy spot",
+      "Quick service"
+    ],
+    "AveragePrepTime": 20,
+    "Certifications": ["DineSafe Certified"],
+    "Owner": {
+      "Name": "Chef Alex 7",
+      "Origin": "Canada",
+      "Background": "Creative fusion cuisine expert"
+    },
+    "Notes": "Trendy fusion spot popular among locals."
+  },
+  {
+    "RestaurantID": "FUS-TO-0008",
+    "Name": "Fusion Eats 8",
+    "Cuisine": "Fusion",
+    "Neighborhood": "Queen Street West",
+    "Address": {
+      "Street": "108 Queen St W",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5H 2N2"
+    },
+    "Contact": {
+      "Phone": "+1-416-555-0008",
+      "Email": "contact@fusioneats8.com",
+      "Website": "https://fusioneats8.com"
+    },
+    "Rating": 4.3,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "DoorDash"],
+      "Fees": {
+        "BaseFee": "$3.50",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "30 mins"
+    },
+    "DietaryOptions": ["Vegetarian", "Gluten-Free"],
+    "ChefSpecials": ["Fusion Tacos 8", "Mango Curry Bowl 8"],
+    "ReviewHighlights": [
+      "Innovative menu",
+      "Trendy spot",
+      "Quick service"
+    ],
+    "AveragePrepTime": 20,
+    "Certifications": ["DineSafe Certified"],
+    "Owner": {
+      "Name": "Chef Alex 8",
+      "Origin": "Canada",
+      "Background": "Creative fusion cuisine expert"
+    },
+    "Notes": "Trendy fusion spot popular among locals."
+  },
+  {
+    "RestaurantID": "FUS-TO-0009",
+    "Name": "Fusion Eats 9",
+    "Cuisine": "Fusion",
+    "Neighborhood": "Queen Street West",
+    "Address": {
+      "Street": "109 Queen St W",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5H 2N2"
+    },
+    "Contact": {
+      "Phone": "+1-416-555-0009",
+      "Email": "contact@fusioneats9.com",
+      "Website": "https://fusioneats9.com"
+    },
+    "Rating": 4.4,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "DoorDash"],
+      "Fees": {
+        "BaseFee": "$3.50",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "30 mins"
+    },
+    "DietaryOptions": ["Vegetarian", "Gluten-Free"],
+    "ChefSpecials": ["Fusion Tacos 9", "Mango Curry Bowl 9"],
+    "ReviewHighlights": [
+      "Innovative menu",
+      "Trendy spot",
+      "Quick service"
+    ],
+    "AveragePrepTime": 20,
+    "Certifications": ["DineSafe Certified"],
+    "Owner": {
+      "Name": "Chef Alex 9",
+      "Origin": "Canada",
+      "Background": "Creative fusion cuisine expert"
+    },
+    "Notes": "Trendy fusion spot popular among locals."
+  },
+  {
+    "RestaurantID": "FUS-TO-0010",
+    "Name": "Fusion Eats 10",
+    "Cuisine": "Fusion",
+    "Neighborhood": "Queen Street West",
+    "Address": {
+      "Street": "110 Queen St W",
+      "City": "Toronto",
+      "Province": "Ontario",
+      "PostalCode": "M5H 2N2"
+    },
+    "Contact": {
+      "Phone": "+1-416-555-0010",
+      "Email": "contact@fusioneats10.com",
+      "Website": "https://fusioneats10.com"
+    },
+    "Rating": 4.5,
+    "DeliveryAvailable": true,
+    "DeliveryOptions": {
+      "Platforms": ["Uber Eats", "DoorDash"],
+      "Fees": {
+        "BaseFee": "$3.50",
+        "ServiceFee": "10%"
+      },
+      "EstimatedTime": "30 mins"
+    },
+    "DietaryOptions": ["Vegetarian", "Gluten-Free"],
+    "ChefSpecials": ["Fusion Tacos 10", "Mango Curry Bowl 10"],
+    "ReviewHighlights": [
+      "Innovative menu",
+      "Trendy spot",
+      "Quick service"
+    ],
+    "AveragePrepTime": 20,
+    "Certifications": ["DineSafe Certified"],
+    "Owner": {
+      "Name": "Chef Alex 10",
+      "Origin": "Canada",
+      "Background": "Creative fusion cuisine expert"
+    },
+    "Notes": "Trendy fusion spot popular among locals."
+  }
+]
