@@ -1,0 +1,262 @@
+[
+  {
+    "Name": "BILLY Bookcase",
+    "Brand": "IKEA",
+    "Category": "Storage",
+    "Dimensions": {
+      "Width": "31.5 inches",
+      "Depth": "11 inches",
+      "Height": "79.5 inches"
+    },
+    "Material": "Particleboard, Foil",
+    "ColorOptions": [
+      "White",
+      "Black-brown",
+      "Birch veneer"
+    ],
+    "Features": [
+      "Adjustable shelves",
+      "Surface made from renewable material"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$69.99",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Shelves may sag with heavy items"
+    ]
+  },
+  {
+    "Name": "MALM Bed Frame",
+    "Brand": "IKEA",
+    "Category": "Bedroom",
+    "Dimensions": {
+      "Width": "66.125 inches",
+      "Length": "83.125 inches",
+      "Height": "38 inches"
+    },
+    "Material": "Particleboard, Fiberboard, Foil",
+    "ColorOptions": [
+      "White",
+      "Black-brown",
+      "Oak veneer"
+    ],
+    "Features": [
+      "Spacious under-bed storage",
+      "Minimalist design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$279.00",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Squeaky frame over time"
+    ]
+  },
+  {
+    "Name": "PO\u00c4NG Armchair",
+    "Brand": "IKEA",
+    "Category": "Living Room",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Layer-glued wood veneer",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$89.00",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Cushion flattens over time"
+    ]
+  },
+  {
+    "Name": "LACK Coffee Table",
+    "Brand": "IKEA",
+    "Category": "Living Room",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Particleboard",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$49.99",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Scratches easily"
+    ]
+  },
+  {
+    "Name": "HEMNES Dresser",
+    "Brand": "IKEA",
+    "Category": "Bedroom",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Solid wood",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$249.00",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Drawers may stick"
+    ]
+  },
+  {
+    "Name": "KALLAX Shelf Unit",
+    "Brand": "IKEA",
+    "Category": "Storage",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Particleboard",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$89.99",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Not suitable for heavy items"
+    ]
+  },
+  {
+    "Name": "KLIPPAN Loveseat",
+    "Brand": "IKEA",
+    "Category": "Living Room",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Polyester cover",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$279.00",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Back cushion loses shape"
+    ]
+  },
+  {
+    "Name": "IVAR Storage System",
+    "Brand": "IKEA",
+    "Category": "Storage",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Solid pine",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$159.00",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Requires wall anchoring"
+    ]
+  },
+  {
+    "Name": "NORDLI Nightstand",
+    "Brand": "IKEA",
+    "Category": "Bedroom",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Particleboard",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$69.00",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Drawer base can warp"
+    ]
+  },
+  {
+    "Name": "SKRUVSTA Swivel Chair",
+    "Brand": "IKEA",
+    "Category": "Office",
+    "Dimensions": {
+      "Width": "Varies",
+      "Depth": "Varies",
+      "Height": "Varies"
+    },
+    "Material": "Polyester, Steel",
+    "ColorOptions": [
+      "White",
+      "Black",
+      "Natural"
+    ],
+    "Features": [
+      "Easy to assemble",
+      "Modern design"
+    ],
+    "AssemblyRequired": true,
+    "Price": "$119.00",
+    "Warranty": "10 years",
+    "CommonIssues": [
+      "Wheels wear out quickly"
+    ]
+  }
+]
