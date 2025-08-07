@@ -1,0 +1,272 @@
+[
+  {
+    "Name": "Paracetamol",
+    "GenericName": "Acetaminophen",
+    "BrandNames": ["Tylenol", "Panadol"],
+    "DrugClass": "Analgesic and Antipyretic",
+    "Formulations": ["Tablet", "Syrup", "Injection"],
+    "Dosage": {
+      "Adult": "500-1000 mg every 4-6 hours",
+      "MaxDaily": "4000 mg"
+    },
+    "CommonUses": [
+      "Fever",
+      "Mild to moderate pain",
+      "Headache",
+      "Toothache"
+    ],
+    "SideEffects": [
+      "Nausea",
+      "Allergic reactions",
+      "Liver damage (overdose)"
+    ],
+    "Contraindications": [
+      "Severe liver disease",
+      "Allergy to acetaminophen"
+    ],
+    "PrescriptionRequired": false,
+    "Storage": "Store below 25°C, keep away from moisture",
+    "Price": 5.99
+  },
+  {
+    "Name": "Ibuprofen",
+    "GenericName": "Ibuprofen",
+    "BrandNames": ["Advil", "Motrin"],
+    "DrugClass": "Nonsteroidal Anti-inflammatory Drug (NSAID)",
+    "Formulations": ["Tablet", "Capsule", "Suspension"],
+    "Dosage": {
+      "Adult": "200-400 mg every 4-6 hours",
+      "MaxDaily": "1200 mg (OTC), up to 3200 mg (prescription)"
+    },
+    "CommonUses": [
+      "Inflammation",
+      "Fever",
+      "Pain relief",
+      "Arthritis"
+    ],
+    "SideEffects": [
+      "Stomach upset",
+      "Ulcers",
+      "Kidney damage (long-term use)",
+      "Allergic reactions"
+    ],
+    "Contraindications": [
+      "Peptic ulcer disease",
+      "Severe kidney disease",
+      "Allergy to NSAIDs"
+    ],
+    "PrescriptionRequired": false,
+    "Storage": "Store at room temperature away from light and moisture",
+    "Price": 7.49
+  },
+  {
+    "Name": "Amoxicillin",
+    "GenericName": "Amoxicillin",
+    "BrandNames": ["Amoxil", "Moxatag"],
+    "DrugClass": "Penicillin Antibiotic",
+    "Formulations": ["Capsule", "Tablet", "Suspension"],
+    "Dosage": {
+      "Adult": "250-500 mg every 8 hours",
+      "MaxDaily": "3000 mg"
+    },
+    "CommonUses": [
+      "Bacterial infections",
+      "Respiratory tract infections",
+      "Ear infections",
+      "Urinary tract infections"
+    ],
+    "SideEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Allergic reactions",
+      "Rash"
+    ],
+    "Contraindications": [
+      "Allergy to penicillin",
+      "Severe kidney disease"
+    ],
+    "PrescriptionRequired": true,
+    "Storage": "Store at room temperature, protect from light",
+    "Price": 12.99
+  },
+  {
+    "Name": "Metformin",
+    "GenericName": "Metformin",
+    "BrandNames": ["Glucophage"],
+    "DrugClass": "Biguanide",
+    "Formulations": ["Tablet", "Extended-release tablet"],
+    "Dosage": {
+      "Adult": "500 mg twice daily or 850 mg once daily",
+      "MaxDaily": "2550 mg"
+    },
+    "CommonUses": [
+      "Type 2 diabetes mellitus"
+    ],
+    "SideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Vitamin B12 deficiency",
+      "Lactic acidosis (rare)"
+    ],
+    "Contraindications": [
+      "Severe kidney disease",
+      "Metabolic acidosis"
+    ],
+    "PrescriptionRequired": true,
+    "Storage": "Store at room temperature, away from moisture",
+    "Price": 14.50
+  },
+  {
+    "Name": "Atorvastatin",
+    "GenericName": "Atorvastatin",
+    "BrandNames": ["Lipitor"],
+    "DrugClass": "Statin",
+    "Formulations": ["Tablet"],
+    "Dosage": {
+      "Adult": "10-80 mg once daily"
+    },
+    "CommonUses": [
+      "High cholesterol",
+      "Prevention of cardiovascular disease"
+    ],
+    "SideEffects": [
+      "Muscle pain",
+      "Liver enzyme abnormalities",
+      "Digestive problems"
+    ],
+    "Contraindications": [
+      "Liver disease",
+      "Pregnancy and breastfeeding"
+    ],
+    "PrescriptionRequired": true,
+    "Storage": "Store at room temperature",
+    "Price": 25.00
+  },
+  {
+    "Name": "Lisinopril",
+    "GenericName": "Lisinopril",
+    "BrandNames": ["Prinivil", "Zestril"],
+    "DrugClass": "ACE inhibitor",
+    "Formulations": ["Tablet"],
+    "Dosage": {
+      "Adult": "10-40 mg once daily"
+    },
+    "CommonUses": [
+      "High blood pressure",
+      "Heart failure",
+      "Post-heart attack"
+    ],
+    "SideEffects": [
+      "Cough",
+      "Dizziness",
+      "Increased potassium levels"
+    ],
+    "Contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "PrescriptionRequired": true,
+    "Storage": "Store at room temperature",
+    "Price": 18.75
+  },
+  {
+    "Name": "Omeprazole",
+    "GenericName": "Omeprazole",
+    "BrandNames": ["Prilosec"],
+    "DrugClass": "Proton pump inhibitor",
+    "Formulations": ["Capsule", "Tablet", "Suspension"],
+    "Dosage": {
+      "Adult": "20-40 mg once daily"
+    },
+    "CommonUses": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcers",
+      "Zollinger-Ellison syndrome"
+    ],
+    "SideEffects": [
+      "Headache",
+      "Nausea",
+      "Diarrhea",
+      "Vitamin B12 deficiency (long-term use)"
+    ],
+    "Contraindications": [],
+    "PrescriptionRequired": false,
+    "Storage": "Store at room temperature, dry place",
+    "Price": 9.99
+  },
+  {
+    "Name": "Albuterol",
+    "GenericName": "Salbutamol",
+    "BrandNames": ["Ventolin", "Proventil"],
+    "DrugClass": "Short-acting beta-2 agonist",
+    "Formulations": ["Inhaler", "Nebulizer solution"],
+    "Dosage": {
+      "Adult": "90 mcg per inhalation, 2 inhalations every 4-6 hours"
+    },
+    "CommonUses": [
+      "Asthma",
+      "Chronic obstructive pulmonary disease (COPD)"
+    ],
+    "SideEffects": [
+      "Tremors",
+      "Nervousness",
+      "Increased heart rate"
+    ],
+    "Contraindications": [],
+    "PrescriptionRequired": true,
+    "Storage": "Store at room temperature, protect from freezing",
+    "Price": 22.00
+  },
+  {
+    "Name": "Warfarin",
+    "GenericName": "Warfarin",
+    "BrandNames": ["Coumadin"],
+    "DrugClass": "Anticoagulant",
+    "Formulations": ["Tablet"],
+    "Dosage": {
+      "Adult": "Variable, based on INR monitoring"
+    },
+    "CommonUses": [
+      "Prevention of blood clots",
+      "Stroke prevention",
+      "Deep vein thrombosis"
+    ],
+    "SideEffects": [
+      "Bleeding",
+      "Bruising",
+      "Nausea"
+    ],
+    "Contraindications": [
+      "Pregnancy",
+      "Active bleeding"
+    ],
+    "PrescriptionRequired": true,
+    "Storage": "Store at room temperature",
+    "Price": 30.00
+  },
+  {
+    "Name": "Cetirizine",
+    "GenericName": "Cetirizine",
+    "BrandNames": ["Zyrtec"],
+    "DrugClass": "Antihistamine",
+    "Formulations": ["Tablet", "Syrup"],
+    "Dosage": {
+      "Adult": "10 mg once daily"
+    },
+    "CommonUses": [
+      "Allergic rhinitis",
+      "Urticaria (hives)"
+    ],
+    "SideEffects": [
+      "Drowsiness",
+      "Dry mouth",
+      "Headache"
+    ],
+    "Contraindications": [
+      "Hypersensitivity to cetirizine"
+    ],
+    "PrescriptionRequired": false,
+    "Storage": "Store at room temperature",
+    "Price": 8.25
+  }
+]
