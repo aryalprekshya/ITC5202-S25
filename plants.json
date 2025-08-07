@@ -1,0 +1,275 @@
+  [
+    {
+      "Name": "Spider Plant",
+      "ScientificName": "Chlorophytum comosum",
+      "LightRequirement": "Bright, indirect light",
+      "Watering": {
+        "Frequency": "Once a week",
+        "Method": "Water thoroughly, allowing excess to drain"
+      },
+      "TemperatureRange": {
+        "Min": "65°F",
+        "Max": "75°F",
+        "Ideal": "70°F"
+      },
+      "Humidity": "Low to Average",
+      "SoilType": "Well-draining potting mix",
+      "GrowthRate": "Moderate",
+      "Fertilization": {
+        "Frequency": "Every 4-6 weeks during growing season",
+        "Type": "Balanced liquid fertilizer"
+      },
+      "CareTips": [
+        "Remove dead leaves and avoid overwatering.",
+        "Ensure good drainage to prevent root rot."
+      ],
+      "CommonPests": [
+        "Aphids",
+        "Spider mites"
+      ],
+      "Toxicity": "Non-toxic to pets"
+    },
+    {
+      "Name": "Snake Plant",
+      "ScientificName": "Sansevieria trifasciata",
+      "LightRequirement": "Low to bright indirect light",
+      "Watering": {
+        "Frequency": "Every 2-3 weeks",
+        "Method": "Water thoroughly, allowing soil to dry out completely between waterings"
+      },
+      "TemperatureRange": {
+        "Min": "60°F",
+        "Max": "80°F",
+        "Ideal": "70°F"
+      },
+      "Humidity": "Low to Average",
+      "SoilType": "Well-draining cactus or succulent mix",
+      "GrowthRate": "Slow",
+      "Fertilization": {
+        "Frequency": "Every 6-8 weeks during growing season",
+        "Type": "Diluted, low-nitrogen fertilizer"
+      },
+      "CareTips": [
+        "Allow soil to dry out between waterings.",
+        "Avoid placing in direct sunlight to prevent leaf burn."
+      ],
+      "CommonPests": [
+        "Mealybugs",
+        "Scale insects"
+      ],
+      "Toxicity": "Toxic to pets if ingested"
+    },
+    {
+      "Name": "Aloe Vera",
+      "ScientificName": "Aloe barbadensis miller",
+      "LightRequirement": "Bright, indirect light",
+      "Watering": {
+        "Frequency": "Every 3 weeks",
+        "Method": "Water thoroughly and allow soil to dry out completely between waterings"
+      },
+      "TemperatureRange": {
+        "Min": "59°F",
+        "Max": "85°F",
+        "Ideal": "70°F"
+      },
+      "Humidity": "Low",
+      "SoilType": "Well-draining sandy mix or cactus soil",
+      "GrowthRate": "Moderate",
+      "Fertilization": {
+        "Frequency": "Every 4-6 weeks during the growing season",
+        "Type": "Cactus or succulent fertilizer"
+      },
+      "CareTips": [
+        "Ensure pot has proper drainage to avoid waterlogged soil.",
+        "Avoid overwatering as it may cause root rot."
+      ],
+      "CommonPests": [
+        "Aphids",
+        "Mealybugs"
+      ],
+      "Uses": {
+        "Medicinal": "Used for soothing burns and cuts.",
+        "Cosmetic": "Common ingredient in skincare products"
+      },
+      "Toxicity": "Non-toxic to pets"
+    },
+    {
+      "Name": "Peace Lily",
+      "ScientificName": "Spathiphyllum",
+      "LightRequirement": "Low to moderate light",
+      "Watering": {
+        "Frequency": "Once a week",
+        "Method": "Water when the top inch of soil is dry"
+      },
+      "TemperatureRange": {
+        "Min": "65°F",
+        "Max": "80°F",
+        "Ideal": "75°F"
+      },
+      "Humidity": "High",
+      "SoilType": "Peat-based potting mix",
+      "GrowthRate": "Moderate",
+      "Fertilization": {
+        "Frequency": "Every 4 weeks during the growing season",
+        "Type": "Balanced liquid fertilizer"
+      },
+      "CareTips": [
+        "Keep soil consistently moist, but not soggy.",
+        "Wipe leaves regularly to remove dust."
+      ],
+      "CommonPests": [
+        "Spider mites",
+        "Aphids"
+      ],
+      "Toxicity": "Toxic to pets"
+    },
+    {
+      "Name": "English Ivy",
+      "ScientificName": "Hedera helix",
+      "LightRequirement": "Moderate to bright indirect light",
+      "Watering": {
+        "Frequency": "Once a week",
+        "Method": "Water thoroughly, allow excess to drain"
+      },
+      "TemperatureRange": {
+        "Min": "50°F",
+        "Max": "75°F",
+        "Ideal": "65°F"
+      },
+      "Humidity": "Average",
+      "SoilType": "Well-draining potting mix",
+      "GrowthRate": "Fast",
+      "Fertilization": {
+        "Frequency": "Every 4 weeks during growing season",
+        "Type": "Balanced liquid fertilizer"
+      },
+      "CareTips": [
+        "Prune regularly to maintain shape.",
+        "Provide support for climbing varieties."
+      ],
+      "CommonPests": [
+        "Aphids",
+        "Spider mites"
+      ],
+      "Toxicity": "Toxic to pets"
+    },
+    {
+      "Name": "ZZ Plant",
+      "ScientificName": "Zamioculcas zamiifolia",
+      "LightRequirement": "Low to bright indirect light",
+      "Watering": {
+        "Frequency": "Every 2-3 weeks",
+        "Method": "Water thoroughly, allowing soil to dry out completely between waterings"
+      },
+      "TemperatureRange": {
+        "Min": "60°F",
+        "Max": "75°F",
+        "Ideal": "70°F"
+      },
+      "Humidity": "Low",
+      "SoilType": "Well-draining potting mix",
+      "GrowthRate": "Slow",
+      "Fertilization": {
+        "Frequency": "Every 6-8 weeks during growing season",
+        "Type": "Low-nitrogen liquid fertilizer"
+      },
+      "CareTips": [
+        "Tolerates neglect, making it ideal for beginners.",
+        "Avoid direct sunlight to prevent leaf burn."
+      ],
+      "CommonPests": [
+        "Mealybugs"
+      ],
+      "Toxicity": "Toxic to pets if ingested"
+    },
+    {
+      "Name": "Pothos",
+      "ScientificName": "Epipremnum aureum",
+      "LightRequirement": "Low to bright indirect light",
+      "Watering": {
+        "Frequency": "Once a week",
+        "Method": "Water when soil feels dry to the touch"
+      },
+      "TemperatureRange": {
+        "Min": "60°F",
+        "Max": "85°F",
+        "Ideal": "70°F"
+      },
+      "Humidity": "Average",
+      "SoilType": "Well-draining potting mix",
+      "GrowthRate": "Fast",
+      "Fertilization": {
+        "Frequency": "Every 4 weeks during growing season",
+        "Type": "Balanced liquid fertilizer"
+      },
+      "CareTips": [
+        "Trim regularly to control growth.",
+        "Be cautious of overwatering, as this can lead to root rot."
+      ],
+      "CommonPests": [
+        "Mealybugs",
+        "Spider mites"
+      ],
+      "Toxicity": "Toxic to pets"
+    },
+    {
+      "Name": "Cactus",
+      "ScientificName": "Various species",
+      "LightRequirement": "Bright, direct light",
+      "Watering": {
+        "Frequency": "Every 3-4 weeks",
+        "Method": "Water thoroughly, allow soil to dry out completely"
+      },
+      "TemperatureRange": {
+        "Min": "50°F",
+        "Max": "100°F",
+        "Ideal": "75°F"
+      },
+      "Humidity": "Low",
+      "SoilType": "Cactus or succulent mix",
+      "GrowthRate": "Slow",
+      "Fertilization": {
+        "Frequency": "Every 6-8 weeks during growing season",
+        "Type": "Cactus fertilizer"
+      },
+      "CareTips": [
+        "Provide plenty of direct sunlight.",
+        "Ensure drainage to avoid root rot."
+      ],
+      "CommonPests": [
+        "Mealybugs",
+        "Spider mites"
+      ],
+      "Toxicity": "Varies by species"
+    },
+    {
+      "Name": "Fiddle Leaf Fig",
+      "ScientificName": "Ficus lyrata",
+      "LightRequirement": "Bright, indirect light",
+      "Watering": {
+        "Frequency": "Once a week",
+        "Method": "Water thoroughly, allow excess water to drain"
+      },
+      "TemperatureRange": {
+        "Min": "60°F",
+        "Max": "75°F",
+        "Ideal": "70°F"
+      },
+      "Humidity": "High",
+      "SoilType": "Well-draining potting mix",
+      "GrowthRate": "Fast",
+      "Fertilization": {
+        "Frequency": "Every 4 weeks during growing season",
+        "Type": "Balanced liquid fertilizer"
+      },
+      "CareTips": [
+        "Wipe leaves with a damp cloth to remove dust.",
+        "Avoid placing near cold drafts or heaters."
+      ],
+      "CommonPests": [
+        "Aphids",
+        "Spider mites"
+      ],
+      "Toxicity": "Toxic to pets"
+    }
+  ]
