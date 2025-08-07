@@ -1,0 +1,293 @@
+[
+  {
+    "Name": "Lake Baikal",
+    "Area": 31500,
+    "Depth": 1642,
+    "Location": "Asia, Russia",
+    "Type": "Freshwater",
+    "LakeType": "Natural",
+    "Rivers": [
+      "Angara River",
+      "Selenga River",
+      "Barun River",
+      "Upper Angara River"
+    ],
+    "Outflow": "Angara River",
+    "Inflow": [
+      "Selenga River",
+      "Uda River",
+      "Kito River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 15,
+          "Maximum": 25
+        },
+        "Winter": {
+          "Average": -19,
+          "Minimum": -40
+        }
+      },
+      "Precipitation": "Annual average of 400 mm"
+    },
+    "EcologicalSignificance": "Home to unique species such as the Baikal seal and over 1,700 species of plants and animals, two-thirds of which can’t be found anywhere else in the world.",
+    "ProtectionStatus": "UNESCO World Heritage Site"
+  },
+  {
+    "Name": "Lake Tanganyika",
+    "Area": 32900,
+    "Depth": 1470,
+    "Location": "Africa, Tanzania, Democratic Republic of the Congo, Burundi, and Rwanda",
+    "Type": "Freshwater",
+    "LakeType": "Natural",
+    "Rivers": [
+      "Ruzizi River",
+      "Lualaba River",
+      "Munyera River"
+    ],
+    "Outflow": "Lualaba River",
+    "Inflow": [
+      "Ruzizi River",
+      "Munyera River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 25,
+          "Maximum": 30
+        },
+        "Winter": {
+          "Average": 18,
+          "Minimum": 15
+        }
+      },
+      "Precipitation": "Annual average of 1200 mm"
+    },
+    "EcologicalSignificance": "It is the second-deepest freshwater lake in the world and home to numerous endemic species.",
+    "ProtectionStatus": "Not yet a UNESCO World Heritage Site"
+  },
+  {
+    "Name": "Lake Victoria",
+    "Area": 68870,
+    "Depth": 83,
+    "Location": "Africa, Kenya, Uganda, Tanzania",
+    "Type": "Freshwater",
+    "LakeType": "Natural",
+    "Rivers": [
+      "White Nile",
+      "Kagera River"
+    ],
+    "Outflow": "White Nile",
+    "Inflow": [
+      "Kagera River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 28,
+          "Maximum": 33
+        },
+        "Winter": {
+          "Average": 23,
+          "Minimum": 20
+        }
+      },
+      "Precipitation": "Annual average of 1200 mm"
+    },
+    "EcologicalSignificance": "The largest tropical lake in the world, it is home to more than 500 species of fish, including the famous cichlids.",
+    "ProtectionStatus": "Not yet a UNESCO World Heritage Site"
+  },
+  {
+    "Name": "Lake Urmia",
+    "Area": 5200,
+    "Depth": 16,
+    "Location": "Asia, Iran",
+    "Type": "Saltwater",
+    "LakeType": "Endorheic",
+    "Rivers": [
+      "Zarrineh Rud",
+      "Simineh Rud"
+    ],
+    "Outflow": "None",
+    "Inflow": [
+      "Zarrineh Rud",
+      "Simineh Rud"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 35,
+          "Maximum": 45
+        },
+        "Winter": {
+          "Average": 5,
+          "Minimum": -5
+        }
+      },
+      "Precipitation": "Annual average of 250 mm"
+    },
+    "EcologicalSignificance": "Lake Urmia was once one of the largest saltwater lakes in the world and an important habitat for migratory birds. It is now rapidly shrinking.",
+    "ProtectionStatus": "Currently under restoration efforts"
+  },
+  {
+    "Name": "Lake Michigan",
+    "Area": 58000,
+    "Depth": 281,
+    "Location": "North America, United States",
+    "Type": "Freshwater",
+    "LakeType": "Natural",
+    "Rivers": [
+      "Milwaukee River",
+      "Chicago River",
+      "Grand River"
+    ],
+    "Outflow": "Straits of Mackinac",
+    "Inflow": [
+      "Milwaukee River",
+      "Chicago River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 22,
+          "Maximum": 30
+        },
+        "Winter": {
+          "Average": -2,
+          "Minimum": -10
+        }
+      },
+      "Precipitation": "Annual average of 860 mm"
+    },
+    "EcologicalSignificance": "It is the only Great Lake located entirely within the United States and supports a variety of migratory birds.",
+    "ProtectionStatus": "Protected by U.S. Environmental Protection Agency"
+  },
+  {
+    "Name": "Great Salt Lake",
+    "Area": 4400,
+    "Depth": 10,
+    "Location": "North America, United States",
+    "Type": "Saltwater",
+    "LakeType": "Endorheic",
+    "Rivers": [
+      "Bear River",
+      "Jordan River"
+    ],
+    "Outflow": "None",
+    "Inflow": [
+      "Bear River",
+      "Jordan River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 28,
+          "Maximum": 40
+        },
+        "Winter": {
+          "Average": 0,
+          "Minimum": -10
+        }
+      },
+      "Precipitation": "Annual average of 400 mm"
+    },
+    "EcologicalSignificance": "The largest saltwater lake in the Western Hemisphere, providing vital habitat for millions of migratory birds.",
+    "ProtectionStatus": "Part of the Great Salt Lake Audubon Society Protection"
+  },
+  {
+    "Name": "Lake Superior",
+    "Area": 117300,
+    "Depth": 406,
+    "Location": "North America",
+    "Type": "Freshwater",
+    "LakeType": "Natural",
+    "Rivers": [
+      "St. Marys River",
+      "Rainy River",
+      "Pigeon River"
+    ],
+    "Outflow": "St. Marys River",
+    "Inflow": [
+      "St. Louis River",
+      "Pigeon River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 15,
+          "Maximum": 25
+        },
+        "Winter": {
+          "Average": -5,
+          "Minimum": -20
+        }
+      },
+      "Precipitation": "Annual average of 950 mm"
+    },
+    "EcologicalSignificance": "The largest freshwater lake by surface area, home to unique fish species and an important resource for both the U.S. and Canada.",
+    "ProtectionStatus": "Part of the Great Lakes National Program"
+  },
+  {
+    "Name": "Lake Geneva",
+    "Area": 580,
+    "Depth": 310,
+    "Location": "Europe, Switzerland and France",
+    "Type": "Freshwater",
+    "LakeType": "Natural",
+    "Rivers": [
+      "Rhône River"
+    ],
+    "Outflow": "Rhône River",
+    "Inflow": [
+      "Rhône River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 20,
+          "Maximum": 28
+        },
+        "Winter": {
+          "Average": 4,
+          "Minimum": -2
+        }
+      },
+      "Precipitation": "Annual average of 1,200 mm"
+    },
+    "EcologicalSignificance": "Lake Geneva is one of the largest lakes in Europe and home to many rare species of freshwater fish.",
+    "ProtectionStatus": "Protected by Swiss Federal Law"
+  },
+  {
+    "Name": "Lake Erie",
+    "Area": 25700,
+    "Depth": 64,
+    "Location": "North America, United States and Canada",
+    "Type": "Freshwater",
+    "LakeType": "Natural",
+    "Rivers": [
+      "Detroit River",
+      "Niagara River",
+      "Grand River"
+    ],
+    "Outflow": "Niagara River",
+    "Inflow": [
+      "Detroit River"
+    ],
+    "Climate": {
+      "Temperature": {
+        "Summer": {
+          "Average": 20,
+          "Maximum": 28
+        },
+        "Winter": {
+          "Average": -5,
+          "Minimum": -15
+        }
+      },
+      "Precipitation": "Annual average of 900 mm"
+    },
+    "EcologicalSignificance": "Known for its role in the Great Lakes ecosystem, Lake Erie supports several fish species and migratory bird populations.",
+    "ProtectionStatus": "EPA Watershed Protection"
+  }
+]
