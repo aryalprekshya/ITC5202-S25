@@ -1,0 +1,644 @@
+[
+  {
+    "Name": "iPhone 15 Pro Max",
+    "Brand": "Apple",
+    "ModelYear": 2023,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "Super Retina XDR OLED",
+        "Resolution": "2796 x 1290 pixels"
+      },
+      "Processor": {
+        "Chip": "Apple A17 Pro",
+        "CPU": "Hexa-core",
+        "GPU": "Apple-designed 6-core"
+      },
+      "Memory": {
+        "RAM": "8 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB",
+          "1 TB"
+        ]
+      },
+      "Camera": {
+        "Rear": "48 MP + 12 MP + 12 MP",
+        "Front": "12 MP"
+      },
+      "Battery": {
+        "Capacity": "4441 mAh",
+        "Charging": "Fast charging, MagSafe wireless charging"
+      },
+      "OperatingSystem": "iOS 17"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2890,
+      "GeekbenchMultiCore": 7200
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$1,199",
+      "Max": "$1,599"
+    },
+    "Technology": {
+      "FaceID": "Yes",
+      "DynamicIsland": "Yes",
+      "ProMotion": "120Hz"
+    },
+    "SafetyFeatures": [
+      "Crash Detection",
+      "Emergency SOS via Satellite"
+    ],
+    "CommonIssues": [
+      "Overheating during gaming",
+      "USB-C accessory compatibility"
+    ],
+    "Warranty": {
+      "Standard": "1 year limited",
+      "AppleCarePlus": "2 years"
+    }
+  },
+  {
+    "Name": "Samsung Galaxy S24 Ultra",
+    "Brand": "Samsung",
+    "ModelYear": 2024,
+    "Specifications": {
+      "Display": {
+        "Size": "6.8 inches",
+        "Type": "Dynamic AMOLED 2X",
+        "Resolution": "3088 x 1440 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB",
+          "1 TB"
+        ]
+      },
+      "Camera": {
+        "Rear": "200 MP + 12 MP + 10 MP + 10 MP",
+        "Front": "12 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "45W wired, 15W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2250,
+      "GeekbenchMultiCore": 6800
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 7",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C 3.2"
+    },
+    "Price": {
+      "Base": "$1,299",
+      "Max": "$1,599"
+    },
+    "Technology": {
+      "S Pen": "Yes",
+      "UltraWideBand": "Yes",
+      "AdaptiveRefresh": "1-120Hz"
+    },
+    "SafetyFeatures": [
+      "Samsung Knox",
+      "Face recognition"
+    ],
+    "CommonIssues": [
+      "Camera focus delay",
+      "App compatibility bugs"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with Samsung Care+"
+    }
+  },
+  {
+    "Name": "Pixel 8 Pro",
+    "Brand": "Google",
+    "ModelYear": 2024,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2200,
+      "GeekbenchMultiCore": 6500
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$899",
+      "Max": "$1099"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  },
+  {
+    "Name": "OnePlus 12",
+    "Brand": "OnePlus",
+    "ModelYear": 2023,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2210,
+      "GeekbenchMultiCore": 6520
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$949",
+      "Max": "$1149"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  },
+  {
+    "Name": "Xiaomi 14 Pro",
+    "Brand": "Xiaomi",
+    "ModelYear": 2025,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2220,
+      "GeekbenchMultiCore": 6540
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$999",
+      "Max": "$1199"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  },
+  {
+    "Name": "Xperia 1 V",
+    "Brand": "Sony",
+    "ModelYear": 2024,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2230,
+      "GeekbenchMultiCore": 6560
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$1049",
+      "Max": "$1249"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  },
+  {
+    "Name": "Edge+ (2024)",
+    "Brand": "Motorola",
+    "ModelYear": 2024,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2240,
+      "GeekbenchMultiCore": 6580
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$1099",
+      "Max": "$1299"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  },
+  {
+    "Name": "ROG Phone 8",
+    "Brand": "Asus",
+    "ModelYear": 2024,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2250,
+      "GeekbenchMultiCore": 6600
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$1149",
+      "Max": "$1349"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  },
+  {
+    "Name": "Realme GT 6",
+    "Brand": "Realme",
+    "ModelYear": 2024,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2260,
+      "GeekbenchMultiCore": 6620
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$1199",
+      "Max": "$1399"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  },
+  {
+    "Name": "Phone (2)",
+    "Brand": "Nothing",
+    "ModelYear": 2024,
+    "Specifications": {
+      "Display": {
+        "Size": "6.7 inches",
+        "Type": "OLED",
+        "Resolution": "2400 x 1080 pixels"
+      },
+      "Processor": {
+        "Chip": "Snapdragon 8 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "RAM": "12 GB",
+        "StorageOptions": [
+          "256 GB",
+          "512 GB"
+        ]
+      },
+      "Camera": {
+        "Rear": "50 MP + 12 MP + 10 MP",
+        "Front": "16 MP"
+      },
+      "Battery": {
+        "Capacity": "5000 mAh",
+        "Charging": "80W wired, 50W wireless"
+      },
+      "OperatingSystem": "Android 14"
+    },
+    "Performance": {
+      "GeekbenchSingleCore": 2270,
+      "GeekbenchMultiCore": 6640
+    },
+    "Connectivity": {
+      "5G": true,
+      "WiFi": "Wi-Fi 6E",
+      "Bluetooth": "Bluetooth 5.3",
+      "USBPort": "USB-C"
+    },
+    "Price": {
+      "Base": "$1249",
+      "Max": "$1449"
+    },
+    "Technology": {
+      "FaceUnlock": "Yes",
+      "HighRefreshRate": "120Hz",
+      "AIEnhancements": "Yes"
+    },
+    "SafetyFeatures": [
+      "Face unlock",
+      "Fingerprint scanner"
+    ],
+    "CommonIssues": [
+      "Battery heating",
+      "Occasional UI lags"
+    ],
+    "Warranty": {
+      "Standard": "1 year",
+      "Extended": "2 years with plan"
+    }
+  }
+]
